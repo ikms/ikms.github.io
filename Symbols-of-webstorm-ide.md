@@ -1,3 +1,5 @@
+# Symbols of Webstorm IDE
+
 |Icon	|Description|
 |---|---|
 |![image](image/classTypeJavaClass.png) |	Class 类|
