@@ -18,3 +18,9 @@
 |![image](image/private.png) |	Private 私有|
 |![image](image/protected.png) |	Protected 保护|
 |![image](image/public.png) |	Public 共有|
+
+
+[首页](http://oxidyc.github.io) >>  [Symbols of Webstorm IDE](http://oxidyc.githu.io/Symbols-of-webstorm-ide) 
+
+
+&copy; 2017 [oxidyc](http://oxidyc.github.com)
