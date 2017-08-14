@@ -2,4 +2,4 @@
 
 
 # Table of Contents
-- Symbols Of Webstorm IDE
+- [Symbols Of Webstorm IDE](/Symbols-of-webstorm-ide)
